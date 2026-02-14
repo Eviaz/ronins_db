@@ -2,27 +2,33 @@
   "members": [
     {
       "nickname": "Roman_Ronin",
-      "role": "Глава"
+      "role": "Глава",
+      "fines": []
     },
     {
       "nickname": "Maksim_Maiorov",
-      "role": "Заместитель"
+      "role": "Заместитель",
+      "fines": []
     },
     {
       "nickname": "Dima_Leonov",
-      "role": "Заместитель"
+      "role": "Заместитель",
+      "fines": []
     },
     {
       "nickname": "Gladi_Ancifer",
-      "role": "Заместитель"
+      "role": "Заместитель",
+      "fines": []
     },
     {
       "nickname": "Arsenii_Mitin",
-      "role": "Участник"
+      "role": "Участник",
+      "fines": []
     },
     {
       "nickname": "Matvei_Mitin",
-      "role": "Участник"
+      "role": "Участник",
+      "fines": []
     }
   ]
 }
