@@ -1,0 +1,11 @@
+{
+  "current_vote": {
+    "topic": "Увольнение Max_Ronin",
+    "options": ["за", "против"],
+    "votes": {
+      "Ivan": "за",
+      "Leo": "против"
+    }
+  },
+  "vote_active": true
+}
