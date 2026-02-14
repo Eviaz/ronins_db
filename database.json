@@ -1,3 +1,24 @@
 {
-  "members": []
+  "members": [
+    {
+      "nickname": "Roman_Ronin",
+      "role": "Глава"
+    },
+    {
+      "nickname": "Maksim_Maiorov",
+      "role": "Заместитель"
+    },
+    {
+      "nickname": "Dima_Leonov",
+      "role": "Заместитель"
+    },
+    {
+      "nickname": "Gladi_Ancifer",
+      "role": "Заместитель"
+    },
+    {
+      "nickname": "Arsenii_Mitin",
+      "role": "Участник"
+    }
+  ]
 }
