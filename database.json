@@ -5,6 +5,6 @@
     {"nickname": "Dima_Leonov", "role": "Заместитель", "fines": []},
     {"nickname": "Gladi_Ancifer", "role": "Заместитель", "fines": []},
     {"nickname": "Arsenii_Mitin", "role": "Участник", "fines": []},
-    {"nickname": "Matvei_Mitin", "role": "Участник", "fines": []}
+    {"nickname": "Matvei_Mitin", "role": "Участник", "fines": [250000]}
   ]
 }
