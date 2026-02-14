@@ -1,4 +1,6 @@
 {
+  "clan_balance": 0,
+  "clan_balance_updated": null,
   "members": [
     {"nickname": "Roman_Ronin", "role": "Глава", "fines": []},
     {"nickname": "Maksim_Maiorov", "role": "Заместитель", "fines": []},
